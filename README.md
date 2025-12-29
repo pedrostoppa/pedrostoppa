@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Stoppa! 👋
 
-### Data Engineer
+### Junior Data Engineer
 
 Sou apaixonado por transformar dados brutos em soluções inteligentes e escaláveis. Atualmente focado em arquitetura de dados e automação de processos para otimizar a tomada de decisão.
 
