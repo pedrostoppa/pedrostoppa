@@ -1,17 +1,23 @@
 # Olá, eu sou o Pedro Stoppa! 👋
 
-### Analista de Dados Pleno
+### Analista de Dados / Engenharia de Dados
 
-Sou apaixonado por transformar dados brutos em soluções inteligentes e escaláveis. Atualmente focado em arquitetura de dados e automação de processos para otimizar a tomada de decisão.
+Analista de Dados Pleno com 5 anos de experiência, atuando na construção de pipelines de dados de ponta a ponta, desde a ingestão e tratamento até a disponibilização para análise e tomada de decisão.
+
+Tenho forte atuação com Python e SQL na modelagem e transformação de dados, aplicando arquitetura Medalhão (Bronze, Silver e Gold) para garantir qualidade, rastreabilidade e escalabilidade.
+
+Experiência em ambientes de nuvem, especialmente Databricks e AWS, com foco em processamento distribuído e eficiência de custos.
+
+Atuo também na criação de dashboards modernos e analíticos em Power BI, traduzindo dados complexos em KPIs estratégicos que apoiam decisões de negócio.
 
 ---
 
-### 🛠️ No que eu trabalho:
-- 📊 **Data Engineering:** Construção de pipelines de dados (ETL/ELT).
-- 🐍 **Python & Pandas:** Automações, limpeza e manipulação de grandes volumes de dados.
-- 📉 **Data Visualization:** Criação de dashboards dinâmicos no **Power BI**.
-- 🗄️ **SQL:** Modelagem e otimização de bancos de dados.
-- ☁️ **Cloud:** Implementação de soluções em nuvem.
+### 💻 COMPETÊNCIAS TÉCNICAS:
+- 📊 **Data Engineering:** Construção de fluxos de dados end-to-end (ETL/ELT).
+- 🐍 **Python:** Transformação, limpeza e automação de dados utilizando Pandas e PySpark.
+- 📉 **Analytics & BI:** Power BI (KPIs Estratégicos, DAX)
+- 🗄️ **SQL:** Modelagem, consultas analíticas e otimização de bancos de dados.
+- ☁️ **Cloud & Big Data:** Processamento distribuído em Databricks e AWS.
 
 ### 🚀 Tecnologias e Ferramentas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
