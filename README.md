@@ -25,7 +25,7 @@ Sou apaixonado por transformar dados brutos em soluções inteligentes e escalá
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Pedro Stoppa](https://linkedin.com/in/pedro-stoppa)
 - **E-mail:** pedrostoppa.dev@gmail.com
-- **Portfólio:** [Projeto Distribuidora de Dados](https://github.com/stoppa-datasolutions/projeto-distribuidora-dados)
+- **Portfólio:** [Projeto de Dados Distribuidora](https://github.com/stoppa-datasolutions/projeto-distribuidora-dados)
 
 ---
 
