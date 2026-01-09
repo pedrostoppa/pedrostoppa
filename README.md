@@ -31,7 +31,7 @@ Atuo também na criação de dashboards modernos e analíticos em Power BI, trad
 ### 📫 Como me encontrar:
 - **LinkedIn:** [Pedro Stoppa](https://linkedin.com/in/pedro-stoppa)
 - **E-mail:** pedrostoppa.dev@gmail.com
-- **Projéto:** [Data Pipeline End-To-End](https://github.com/stoppa-datasolutions/projeto-distribuidora-dados)
+- **Projéto:** [Data Pipeline End-To-End]([https://github.com/stoppa-datasolutions/projeto-distribuidora-dados](https://github.com/pedrostoppa/data-pipeline-medallion-logistics))
 
 ---
 
