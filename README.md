@@ -1,8 +1,8 @@
 # Olá, eu sou o Pedro Stoppa! 👋
 
-### Analista de Dados / Engenharia de Dados
+### Engenheiro de Dados / Business Intelligence
 
-Analista de Dados Pleno com 5 anos de experiência, atuando na construção de pipelines de dados de ponta a ponta, desde a ingestão e tratamento até a disponibilização para análise e tomada de decisão.
+Profissional com 5 anos de experiência na área de dados, atuando home como Engenheiro de Dados com forte experiência na construção de pipelines de ponta a ponta, desde a ingestão e tratamento até a disponibilização para análise e tomada de decisão.
 
 Tenho forte atuação com Python e SQL na modelagem e transformação de dados, aplicando arquitetura Medalhão (Bronze, Silver e Gold) para garantir qualidade, rastreabilidade e escalabilidade.
 
