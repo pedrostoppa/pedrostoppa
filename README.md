@@ -1,4 +1,4 @@
-# OLÁ, EU SOU O PEDRO STOPPA!👋🏻🧑🏻
+# OLÁ, EU SOU O PEDRO STOPPA!👋🏻
 
 ### **ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE**
 
@@ -8,7 +8,7 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 
 ---
 
-### 🧑🏻‍💻 FERRAMETAS E COMPETÊNCIAS TÉCNICAS:
+### 🧑🏻‍💻 FERRAMETAS E SKILLS:
 
 🔹 **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.  
 🔹 **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.  
@@ -27,10 +27,10 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 ---
 
 ### 👾 PROJETO EM DESTAQUE:
-[Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)  
+- [Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)  
 Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion.  
 
-🤖 **NOTEBOOKS UTILIZADOS**:  
+🤖 **NOTEBOOKS UTILIZADOS:  
 🔹 01_EXTRACT_LANDING_TO_BRONZE: Captura e armazenamento do dado bruto.    
 🔹 02_TRANSFORM_BRONZE_TO_SILVER: Limpeza, padronização e regras de negócio.    
 🔹 03_LOAD_SILVER_TO_GOLD_BI: Tabelas otimizadas para consumo em Power BI e Machine Learning.    
