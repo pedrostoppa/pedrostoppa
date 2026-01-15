@@ -5,6 +5,7 @@ Profissional com 5 anos de experiência na área de dados, com foco em construç
 
 Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
 
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
