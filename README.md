@@ -1,6 +1,6 @@
-# OLÁ, ME CHAMO PEDRO STOPPA!👋🏻
+# OLÁ, ME CHAMO PEDRO STOPPA!
 
-### 🧑🏻‍💻 ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE  
+### ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE  
 
 
 Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
@@ -9,13 +9,14 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 
 ---
 
-### 💻 HABILIDADES E FERRAMETAS:  
+### 🧑🏻‍💻 HABILIDADES:  
 🔹 **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.  
 🔹 **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.  
 🔹 **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.  
 🔹 **Analytics & BI:** Modelagem de dados para Power BI (DAX, KPIs e métricas de governança).  
 🔹 **DevOps para Dados:** Versionamento de código com Git e boas práticas de CI/CD.  
 
+### 💻  FERRAMENTAS:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
@@ -30,10 +31,10 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 - [Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)  
 Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion.  
 
- **NOTEBOOKS UTILIZADOS:**  
-🔹 01_EXTRACT_LANDING_TO_BRONZE: Captura e armazenamento do dado bruto.    
-🔹 02_TRANSFORM_BRONZE_TO_SILVER: Limpeza, padronização e regras de negócio.    
-🔹 03_LOAD_SILVER_TO_GOLD_BI: Tabelas otimizadas para consumo em Power BI e Machine Learning.    
+ ### 🤖 NOTEBOOKS UTILIZADOS: 
+🔹 **01_EXTRACT_LANDING_TO_BRONZE:** Captura e armazenamento do dado bruto.    
+🔹 **02_TRANSFORM_BRONZE_TO_SILVER:** Limpeza, padronização e regras de negócio.    
+🔹 **03_LOAD_SILVER_TO_GOLD_BI:** Tabelas otimizadas para consumo em Power BI e Machine Learning.    
 
 ---
 
