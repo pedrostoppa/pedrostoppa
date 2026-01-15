@@ -1,6 +1,6 @@
 # OLÁ, EU SOU O PEDRO STOPPA!👋🏻🧑🏻
 
-## **ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE**
+### **ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE**
 
 Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
 
