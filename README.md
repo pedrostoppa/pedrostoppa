@@ -1,6 +1,7 @@
 # OLÁ, EU SOU O PEDRO STOPPA!👋🏻🧑🏻
 
 **ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE**
+
 Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
 
 Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
