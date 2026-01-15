@@ -32,9 +32,9 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 **Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion**
 
 ### 🤖 NOTEBOOKS UTILIZADOS: 
-####🔹 01_EXTRACT_LANDING_TO_BRONZE: Captura e armazenamento do dado bruto.    
-####🔹 02_TRANSFORM_BRONZE_TO_SILVER: Limpeza, padronização e regras de negócio.    
-####🔹 03_LOAD_SILVER_TO_GOLD_BI: Tabelas otimizadas para consumo em Power BI e Machine Learning.    
+🔹 **01_EXTRACT_LANDING_TO_BRONZE:** Captura e armazenamento do dado bruto.    
+🔹 **02_TRANSFORM_BRONZE_TO_SILVER:** Limpeza, padronização e regras de negócio.    
+🔹 **03_LOAD_SILVER_TO_GOLD_BI:** Tabelas otimizadas para consumo em Power BI e Machine Learning.    
 
 ---
 
