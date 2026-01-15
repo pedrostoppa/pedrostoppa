@@ -1,4 +1,4 @@
-# OLÁ, EU SOU O PEDRO STOPPA! 👋
+# OLÁ, EU SOU O PEDRO STOPPA! 🧑🏻‍💻
 
 ### ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE
 Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
@@ -13,9 +13,10 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+
 ---
 
-### 🧑🏻‍💻 <u>COMPETÊNCIAS TÉCNICAS:</u>
+### 💻 COMPETÊNCIAS TÉCNICAS:
 🔹 **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.  
 🔹 **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.  
 🔹 **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.  
@@ -24,18 +25,18 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 
 ---
 
-### 👾 <u>PROJETO EM DESTAQUE</u>
+### 👾 PROJETO EM DESTAQUE:
 [Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)  
 Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion.  
 
-🤖 **NOTEBOOKS UTILIZADOS**:
+🤖 **NOTEBOOKS UTILIZADOS**:  
 🔹 01_EXTRACT_LANDING_TO_BRONZE: Captura e armazenamento do dado bruto.    
 🔹 02_TRANSFORM_BRONZE_TO_SILVER: Limpeza, padronização e regras de negócio.    
 🔹 03_LOAD_SILVER_TO_GOLD_BI: Tabelas otimizadas para consumo em Power BI e Machine Learning.    
 
 ---
 
-### 📫 <u>COMO ME ENCONTRAR:</u>
+### 📫 COMO ME ENCONTRAR:
 🔹**LinkedIn:** [Pedro Stoppa](https://linkedin.com/in/pedro-stoppa)  
 🔹**E-mail:** pedrostoppa.dev@gmail.com  
 
