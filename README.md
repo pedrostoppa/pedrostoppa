@@ -1,6 +1,4 @@
-# OLÁ, EU SOU O PEDRO STOPPA!👋🏻
-
-### **ENGENHEIRO DE DADOS | BUSINESS INTELLIGENCE**
+# PEDRO STOPPA | ENGENHEIRO DE DADOS
 
 Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
 
@@ -8,8 +6,7 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 
 ---
 
-### 🧑🏻‍💻 FERRAMETAS E SKILLS:
-
+### 🧑🏻‍💻 FERRAMETAS E SKILLS:  
 🔹 **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.  
 🔹 **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.  
 🔹 **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.  
