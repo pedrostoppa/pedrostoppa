@@ -7,7 +7,7 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 
 ---
 
-### 🧑🏻‍💻 FERRAMETAS | COMPETÊNCIAS TÉCNICAS:
+### 🧑🏻‍💻 FERRAMETAS E COMPETÊNCIAS TÉCNICAS:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
