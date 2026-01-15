@@ -2,10 +2,8 @@
 
 ### 🔹 ENGENHEIRO DE DADOS 
 
-
-Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.  
-
-Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
+- Profissional com 5 anos de experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.
+  Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
 
 ---
 
@@ -31,7 +29,7 @@ Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medalli
 - [Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)
 - **Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion**
 
-###🔹 NOTEBOOKS UTILIZADOS: 
+🔹 NOTEBOOKS UTILIZADOS: 
 - **01_EXTRACT_LANDING_TO_BRONZE:** **Captura e armazenamento do dado bruto.*    
 - **02_TRANSFORM_BRONZE_TO_SILVER:** **Limpeza, padronização e regras de negócio.*    
 - **03_LOAD_SILVER_TO_GOLD_BI:** **Tabelas otimizadas para consumo em Power BI e Machine Learning.*    
