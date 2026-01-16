@@ -8,14 +8,6 @@
 - Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
 
 ---
-
-### 🔹 HABILIDADES:  
-- **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.
-- **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.
-- **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.
-- **Analytics & BI:** Modelagem de dados para Power BI (DAX, KPIs e métricas de governança).
-- **DevOps para Dados:** Versionamento de código com Git e boas práticas de CI/CD.  
-
 ### 🔹 FERRAMENTAS:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
@@ -24,6 +16,13 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### 🔹 HABILIDADES:  
+- **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.
+- **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.
+- **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.
+- **Analytics & BI:** Modelagem de dados para Power BI (DAX, KPIs e métricas de governança).
+- **DevOps para Dados:** Versionamento de código com Git e boas práticas de CI/CD.  
 
 ---
 
