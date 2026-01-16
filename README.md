@@ -18,11 +18,12 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### 🔹 HABILIDADES:  
-- **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis.
-- **Big Data & Cloud:** Processamento distribuído em Databricks e armazenamento em AWS S3.
-- **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado.
-- **Analytics & BI:** Modelagem de dados para Power BI (DAX, KPIs e métricas de governança).
-- **DevOps para Dados:** Versionamento de código com Git e boas práticas de CI/CD.  
+- **Engenharia de Dados:** Pipelines ETL/ELT escaláveis e frameworks reutilizáveis, seguindo a Arquitetura em cloud por external connection processada via Databricks.
+- **Arquitetura de Cloud:** Implementação de Data Lakehouse estruturado por camadas (Bronze, Silver, Gold) na AWS S3 para um armazenamento rastreável.
+- **Big Data:** Processamento distribuído com PySpark e orquestração de fluxos via Databricks Workflows.
+- **Linguagens:** Domínio em Python (Pandas/PySpark) e SQL Avançado para manipulação de grandes volumes de dados.
+- **Analytics & BI:** Modelagem Star Schema para Power BI (DAX, métricas de performance e governança).
+- **DevOps para Dados:** Versionamento de código com Git e automação de pipelines.
 
 ---
 
