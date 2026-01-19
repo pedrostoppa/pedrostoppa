@@ -17,6 +17,8 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+---
+
 ### 🔹 HABILIDADES:  
 - **Engenharia de Dados:** *Pipelines ETL/ELT escaláveis e frameworks reutilizáveis, seguindo a Arquitetura em cloud por external connection processada via Databricks.*
 - **Arquitetura de Cloud:** *Implementação de Data Lakehouse estruturado por camadas (Bronze, Silver, Gold) na AWS S3 para um armazenamento rastreável.*
