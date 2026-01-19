@@ -3,9 +3,9 @@
 
 ### 🔹 ENGENHEIRO DE DADOS 
 
-- Profissional experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.
+- Profissional com ampla experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.
 
-- Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes de nuvem como Databricks e AWS. Meu diferencial é o foco em eficiência de custos e na criação de dashboards analíticos que traduzem dados complexos em decisões de negócio.  
+- Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, especialmente Databricks e AWS. Meu diferencial é o foco em eficiência de custos, pipelines escálaveis e no desenvolvimento de processos automatizados.  
 
 ---
 ### 🔹 FERRAMENTAS:
