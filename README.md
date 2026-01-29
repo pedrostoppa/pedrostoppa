@@ -29,7 +29,7 @@
 
 ---
 
-### 🔹 PROJETO EM DESTAQUE:
+###  🔹 PROJETO EM DESTAQUE:
 #### 📦 Projeto Atlântico — Plataforma de Dados para Distribuição Regional
 
 Projeto que simula uma empresa de distribuição regional no Nordeste,
