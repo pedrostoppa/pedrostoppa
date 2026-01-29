@@ -30,13 +30,17 @@
 ---
 
 ### 🔹 PROJETO EM DESTAQUE:
-- [Pipeline de Dados Ponta a Ponta - Distribuidora Atlântico](https://github.com/pedrostoppa/data-pipeline-medallion-logistics)
-- **Framework modular e reutilizável que automatiza o fluxo de dados seguindo a arquitetura Medallion**
+#### 📦 Projeto Atlântico — Plataforma de Dados para Distribuição Regional
 
-🔹 NOTEBOOKS UTILIZADOS:
-- **01_EXTRACT_LANDING_TO_BRONZE:** *Captura e armazenamento do dado bruto.*    
-- **02_TRANSFORM_BRONZE_TO_SILVER:** *Limpeza, padronização e regras de negócio.*    
-- **03_LOAD_SILVER_TO_GOLD_BI:** *Tabelas otimizadas para consumo em Power BI e Machine Learning.*    
+Projeto que simula uma empresa de distribuição regional no Nordeste,
+atendendo operações B2B e B2C nas regiões do Piauí, Maranhão e Ceará.
+
+O foco está na construção de uma plataforma moderna de dados, com ingestão
+de dados transacionais, consolidação multi-regional, arquitetura medalhão
+(Bronze, Silver, Gold) e modelagem analítica (Star Schema), considerando
+custos, latência e governança.
+
+Tecnologias: AWS, Databricks, PySpark, SQL.
 
 ---
 
