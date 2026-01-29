@@ -40,7 +40,7 @@ de dados transacionais, consolidação multi-regional, arquitetura medalhão
 (Bronze, Silver, Gold) e modelagem analítica (Star Schema), considerando
 custos, latência e governança.
 
-Tecnologias: AWS, Databricks, PySpark, SQL.
+Tecnologias: AWS, Databricks, Airflow, PySpark, SQL.
 
 ---
 
