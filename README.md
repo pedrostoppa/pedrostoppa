@@ -29,21 +29,6 @@
 
 ---
 
-### 🔹 PROJETO EM DESTAQUE:
-*📊 Projeto Atlântico — Plataforma de Dados para Distribuição Regional do nordeste*
-
-Projeto que simula uma empresa de distribuição regional no Nordeste,
-atendendo operações B2B e B2C nas regiões do Piauí, Maranhão e Ceará.
-
-O foco está na construção de uma plataforma moderna de dados, com ingestão
-de dados transacionais, consolidação multi-regional, arquitetura medalhão
-(Bronze, Silver, Gold) e modelagem analítica (Star Schema), considerando
-custos, latência e governança.
-
-Tecnologias: AWS, Databricks, Airflow, PySpark, SQL.
-
----
-
 ### 🔹 COMO ME ENCONTRAR:
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/)
 [![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados)
