@@ -4,9 +4,9 @@
 
 ### 🔹 ENGENHEIRO DE DADOS
 
-Sou profissional de dados com experiência prática na construção de pipelines de dados ponta a ponta, atuando desde a ingestão de dados brutos até a disponibilização de dados confiáveis para analytics e BI. Tenho foco em qualidade, rastreabilidade, escalabilidade e eficiência de custos, sempre alinhando soluções técnicas às necessidades reais do negócio.
-
-Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, com destaque para Databricks e AWS. Meu diferencial está na criação de pipelines escaláveis, processos automatizados e arquiteturas preparadas para crescimento sem necessidade de reescrita.
+> Sou profissional de dados com experiência prática na construção de pipelines de dados ponta a ponta, atuando desde a ingestão de dados brutos até a disponibilização de dados confiáveis para analytics e BI. Tenho foco em qualidade, rastreabilidade, escalabilidade e eficiência de custos, sempre alinhando soluções técnicas às necessidades reais do negócio.
+>
+> Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, com destaque para Databricks e AWS. Meu diferencial está na criação de pipelines escaláveis, processos automatizados e arquiteturas preparadas para crescimento sem necessidade de reescrita.
 
 ---
 
