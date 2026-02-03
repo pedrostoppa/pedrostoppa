@@ -28,29 +28,29 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 ### 🔹 HABILIDADES
 
 **• Engenharia de Dados**  
-Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis  
-Boas práticas de engenharia aplicadas a ambientes cloud
+- Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis  
+- Boas práticas de engenharia aplicadas a ambientes cloud
  
 **• Arquitetura de Dados em Cloud**  
 Implementação de Data Lakehouse na AWS S3
-Arquitetura Medallion (Bronze, Silver e Gold)  
-Governança, rastreabilidade e confiabilidade dos dados
+- Arquitetura Medallion (Bronze, Silver e Gold)  
+- Governança, rastreabilidade e confiabilidade dos dados
 
 **• Big Data & Processamento Distribuído**    
-Processamento de grandes volumes com **PySpark**  
-Orquestração de fluxos com **Databricks Workflows**
+- Processamento de grandes volumes com **PySpark**  
+- Orquestração de fluxos com **Databricks Workflows**
 
 **• Linguagens & Manipulação de Dados**    
-Python (Pandas e PySpark)  
-SQL avançado para transformação, validação e análise em escala
+- Python (Pandas e PySpark)  
+- SQL avançado para transformação, validação e análise em escala
 
 **• Analytics & BI**                                       
-Modelagem dimensional (Star Schema)  
-Métricas e dashboards no Power BI (DAX e boas práticas)  
+- Modelagem dimensional (Star Schema)  
+- Métricas e dashboards no Power BI (DAX e boas práticas)  
 
 **• DevOps para Dados**    
-Versionamento de código com Git  
-Automação de pipelines em ambientes produtivos
+- Versionamento de código com Git  
+- Automação de pipelines em ambientes produtivos
 
 ---
 
