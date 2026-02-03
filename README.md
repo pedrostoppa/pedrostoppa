@@ -46,8 +46,7 @@ SQL avançado para transformação, validação e análise em escala
 
 **• Analytics & BI** 
 Modelagem dimensional (Star Schema)
-**• Analytics & BI** 
-Modelagem dimensional (Star Schema)
+
 Métricas e dashboards no Power BI (DAX e boas práticas)
 
 **• DevOps para Dados**    
