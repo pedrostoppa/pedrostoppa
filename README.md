@@ -4,9 +4,9 @@
 
 ###  ENGENHEIRO DE DADOS
 
-**Sou profissional de dados com experiência prática na construção de pipelines de dados ponta a ponta, atuando desde a ingestão de dados brutos até a disponibilização de dados confiáveis para analytics e BI. Tenho foco em qualidade, rastreabilidade, escalabilidade e eficiência de custos, sempre alinhando soluções técnicas às necessidades reais do negócio.*
+*Sou profissional de dados com experiência prática na construção de pipelines de dados ponta a ponta, atuando desde a ingestão de dados brutos até a disponibilização de dados confiáveis para analytics e BI. Tenho foco em qualidade, rastreabilidade, escalabilidade e eficiência de custos, sempre alinhando soluções técnicas às necessidades reais do negócio.*
 
-**Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, com destaque para Databricks e AWS. Meu diferencial está na criação de pipelines escaláveis, processos automatizados e arquiteturas preparadas para crescimento sem necessidade de reescrita.*
+*Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, com destaque para Databricks e AWS. Meu diferencial está na criação de pipelines escaláveis, processos automatizados e arquiteturas preparadas para crescimento sem necessidade de reescrita.*
 
 ---
 
@@ -28,23 +28,23 @@
 ###  HABILIDADES
 
 #### • Engenharia de Dados
-**Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis  
+*Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis  
 Boas práticas de engenharia aplicadas a ambientes cloud*
 #### • Arquitetura de Dados em Cloud    
-**Implementação de Data Lakehouse na AWS S3
+*Implementação de Data Lakehouse na AWS S3
 Arquitetura Medallion (Bronze, Silver e Gold)  
 Governança, rastreabilidade e confiabilidade dos dados*
 #### • Big Data & Processamento Distribuído     
-**Processamento de grandes volumes com **PySpark**  
+*Processamento de grandes volumes com **PySpark**  
 Orquestração de fluxos com **Databricks Workflows***
 #### • Linguagens & Manipulação de Dados   
-**Python (Pandas e PySpark)  
+*Python (Pandas e PySpark)  
 SQL avançado para transformação, validação e análise em escala*
 #### • Analytics & BI                                        
-**Modelagem dimensional (Star Schema)  
+*Modelagem dimensional (Star Schema)  
 Métricas e dashboards no Power BI (DAX e boas práticas) * 
 #### • DevOps para Dados     
-**Versionamento de código com Git  
+*Versionamento de código com Git  
 Automação de pipelines em ambientes produtivos*
 
 
