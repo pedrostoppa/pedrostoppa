@@ -27,24 +27,39 @@
 
 ### 🔹 HABILIDADES
 
-Engenharia de Dados
-Desenvolvimento de pipelines ETL/ELT escaláveis, com código reutilizável e boas práticas de engenharia de dados em ambientes cloud.
-Arquitetura de Dados em Cloud
-Implementação de Data Lakehouse na AWS S3 utilizando Arquitetura Medallion (Bronze, Silver e Gold), garantindo governança, rastreabilidade e confiabilidade dos dados.
-Big Data & Processamento Distribuído
-Processamento de grandes volumes de dados com PySpark e orquestração de fluxos utilizando Databricks Workflows.
-Linguagens & Manipulação de Dados
-Domínio de Python (Pandas e PySpark) e SQL avançado para transformação, validação e análise de dados em escala.
-Analytics & BI
-Modelagem de dados em Star Schema para consumo analítico, com construção de métricas e dashboards no Power BI (DAX e boas práticas de governança).
-DevOps para Dados
-Versionamento de código com Git e automação de pipelines para ambientes produtivos.
+>**• Engenharia de Dados**  
+>Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis
+>Boas práticas de engenharia aplicadas a ambientes cloud
+> 
+>**• Arquitetura de Dados em Cloud**  
+>Implementação de Data Lakehouse na AWS S3
+>Arquitetura Medallion (Bronze, Silver e Gold)
+>Governança, rastreabilidade e confiabilidade dos dados
+>
+>**• Big Data & Processamento Distribuído**    
+>Processamento de grandes volumes com **PySpark**
+>Orquestração de fluxos com **Databricks Workflows**
+>
+>**• Linguagens & Manipulação de Dados**    
+>Python (Pandas e PySpark)
+>SQL avançado para transformação, validação e análise em escala
+>
+>**• Analytics & BI**    
+>Modelagem dimensional (Star Schema)
+>Métricas e dashboards no Power BI (DAX e boas práticas)
+
+**• DevOps para Dados**    
+Versionamento de código com Git
+Automação de pipelines em ambientes produtivos
 
 ---
 
 ### 📬 Vamos conversar?
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/) • [![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados) • [![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/)
+[![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados)
+[![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921) 
 
 ---
 
 > "Dados sem estrutura são apenas ruído; dados bem engenheirados são a bússola para decisões de alto impacto."
+
