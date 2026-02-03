@@ -45,7 +45,7 @@ Python (Pandas e PySpark)
 SQL avançado para transformação, validação e análise em escala
 
 **• Analytics & BI**  
-**• Analytics & BI**
+
 Modelagem dimensional (Star Schema)  
 Métricas e dashboards no Power BI (DAX e boas práticas)  
 
