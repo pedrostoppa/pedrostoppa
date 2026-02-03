@@ -1,45 +1,53 @@
-
-# OLÁ, EU SOU O PEDRO STOPPA! 
-
-### 🔹 ENGENHEIRO DE DADOS 
-
-- Profissional com ampla experiência na área de dados, com foco em construção de pipelines de ponta a ponta. Especialista em transformar dados brutos em ativos estratégicos, garantindo qualidade, rastreabilidade e escalabilidade.
-
-- Tenho forte atuação com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, especialmente Databricks e AWS. Meu diferencial é o foco em eficiência de custos, pipelines escálaveis e no desenvolvimento de processos automatizados.  
+# OLÁ, EU SOU O PEDRO STOPPA 👋
 
 ---
-### 🔹 FERRAMENTAS:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+### 🔹 ENGENHEIRO DE DADOS
+
+Sou profissional de dados com experiência prática na construção de pipelines de dados ponta a ponta, atuando desde a ingestão de dados brutos até a disponibilização de dados confiáveis para analytics e BI. Tenho foco em qualidade, rastreabilidade, escalabilidade e eficiência de custos, sempre alinhando soluções técnicas às necessidades reais do negócio.
+
+Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Bronze, Silver e Gold) em ambientes cloud, com destaque para Databricks e AWS. Meu diferencial está na criação de pipelines escaláveis, processos automatizados e arquiteturas preparadas para crescimento sem necessidade de reescrita.
+
+---
+
+### 🔹 FERRAMENTAS
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgres,spark,aws,databricks,powerbi,git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" alt="SQL" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="45" alt="Spark" />
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45" alt="Databricks" />
+  <img width="15" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=aws,git" />
 </div>
 
-<div> <img src="https://skillicons.dev/icons?i=python,postgres,spark,aws,powerbi,git" title="Linguagens e Cloud" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45" height="45" title="Databricks" style="vertical-align: top; margin-left: 10px;" /> </div>
----
-
-### 🔹 HABILIDADES:  
-- **Engenharia de Dados:** *Pipelines ETL/ELT escaláveis e frameworks reutilizáveis, seguindo a Arquitetura em cloud por external connection processada via Databricks.*
-- **Arquitetura de Cloud:** *Implementação de Data Lakehouse estruturado por camadas (Bronze, Silver, Gold) na AWS S3 para um armazenamento rastreável.*
-- **Big Data:** *Processamento distribuído com PySpark e orquestração de fluxos via Databricks Workflows.*
-- **Linguagens:** *Domínio em Python (Pandas/PySpark) e SQL Avançado para manipulação de grandes volumes de dados.*
-- **Analytics & BI:** *Modelagem Star Schema para Power BI (DAX, métricas de performance e governança).*
-- **DevOps para Dados:** *Versionamento de código com Git e automação de pipelines.*
 
 ---
 
-### 🔹 COMO ME ENCONTRAR:
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/)
-[![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921)
+### 🔹 HABILIDADES
+
+Engenharia de Dados
+Desenvolvimento de pipelines ETL/ELT escaláveis, com código reutilizável e boas práticas de engenharia de dados em ambientes cloud.
+Arquitetura de Dados em Cloud
+Implementação de Data Lakehouse na AWS S3 utilizando Arquitetura Medallion (Bronze, Silver e Gold), garantindo governança, rastreabilidade e confiabilidade dos dados.
+Big Data & Processamento Distribuído
+Processamento de grandes volumes de dados com PySpark e orquestração de fluxos utilizando Databricks Workflows.
+Linguagens & Manipulação de Dados
+Domínio de Python (Pandas e PySpark) e SQL avançado para transformação, validação e análise de dados em escala.
+Analytics & BI
+Modelagem de dados em Star Schema para consumo analítico, com construção de métricas e dashboards no Power BI (DAX e boas práticas de governança).
+DevOps para Dados
+Versionamento de código com Git e automação de pipelines para ambientes produtivos.
 
 ---
 
-> "Para cada decisão estratégica de BI, é indispensável a existência de dados confiáveis e bem estruturados"
+### 📬 Vamos conversar?
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/) • [![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados) • [![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921)
 
+---
+
+> "Dados sem estrutura são apenas ruído; dados bem engenheirados são a bússola para decisões de alto impacto."
