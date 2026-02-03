@@ -22,7 +22,7 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45" alt="Databricks"/>
   <img width="15"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI"/>
-  <img src="https://skillicons.dev/icons?i=,aws,git"/>
+  <img src="https://skillicons.dev/icons?i=aws,,git"/>
 </div>
 
 
