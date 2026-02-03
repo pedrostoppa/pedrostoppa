@@ -14,7 +14,7 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" />
-  <img width="15" />
+  <img width="15" 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" alt="SQL" />
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="45" alt="Spark" />
