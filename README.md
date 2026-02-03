@@ -13,16 +13,13 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 ### 🔹 FERRAMENTAS
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" height="45" alt="SQL"/>
-  <img width="15"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="45" alt="Spark"/>
-  <img width="15"/>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="45" alt="Databricks"/>
-  <img width="15"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" alt="Power BI"/>
-  <img src="https://skillicons.dev/icons?i=aws,,git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt="Spark" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="45" height="45" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt="Databricks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
 </div>
 
 
