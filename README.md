@@ -17,6 +17,8 @@
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+<div> <img src="https://skillicons.dev/icons?i=python,postgres,spark,aws,powerbi,git" title="Linguagens e Cloud" /> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="45" height="45" title="Databricks" style="vertical-align: top; margin-left: 10px;" /> </div>
+
 ---
 
 ### 🔹 HABILIDADES:  
