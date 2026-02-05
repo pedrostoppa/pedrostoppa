@@ -1,4 +1,4 @@
-# OLÁ, EU SOU O PEDRO STOPPA 
+# OLÁ, EU SOU O PEDRO STOPPA 🧑🏻‍💻
 
 ---
 
