@@ -40,7 +40,7 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 
 ---
 
-### • 📬 Vamos conversar?
+### 📬 Vamos conversar?
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/)
 [![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados)
 [![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921) 
