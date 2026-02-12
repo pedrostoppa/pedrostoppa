@@ -10,7 +10,21 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 
 ### 🤖 Técnologias
 
-![Skills](https://skills.syvixor.com/api/icons?perline=15&i=databricks,airflow,apachespark,dbt,pandas,postgresql,mysql,powerbi,python,sql,amazonwebservices,docker,dbeaver,git,terraform)
+<a href="https://www.databricks.com/" target="_blank">![Databricks](https://skills.syvixor.com/api/icons?i=databricks)</a>
+<a href="https://spark.apache.org/" target="_blank">![Spark](https://skills.syvixor.com/api/icons?i=apachespark)</a>
+<a href="https://www.python.org/" target="_blank">![Python](https://skills.syvixor.com/api/icons?i=python)</a>
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=sql)
+<a href="https://aws.amazon.com/" target="_blank">![AWS](https://skills.syvixor.com/api/icons?i=amazonwebservices)</a>
+<a href="https://airflow.apache.org/" target="_blank">![Airflow](https://skills.syvixor.com/api/icons?i=airflow)</a>
+<a href="https://www.getdbt.com/" target="_blank">![dbt](https://skills.syvixor.com/api/icons?i=dbt)</a>
+<a href="https://pandas.pydata.org/" target="_blank">![Pandas](https://skills.syvixor.com/api/icons?i=pandas)</a>
+<a href="https://www.postgresql.org/" target="_blank">![PostgreSQL](https://skills.syvixor.com/api/icons?i=postgresql)</a>
+<a href="https://www.mysql.com/" target="_blank">![MySQL](https://skills.syvixor.com/api/icons?i=mysql)</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">![PowerBI](https://skills.syvixor.com/api/icons?i=powerbi)</a>
+<a href="https://www.terraform.io/" target="_blank">![Terraform](https://skills.syvixor.com/api/icons?i=terraform)</a>
+<a href="https://www.docker.com/" target="_blank">![Docker](https://skills.syvixor.com/api/icons?i=docker)</a>
+<a href="https://dbeaver.io/" target="_blank">![DBeaver](https://skills.syvixor.com/api/icons?i=dbeaver)</a>
+<a href="https://git-scm.com/" target="_blank">![Git](https://skills.syvixor.com/api/icons?i=git)</a>
 
 ---
 
