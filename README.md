@@ -1,4 +1,4 @@
-# OLÁ, EU SOU O PEDRO STOPPA 🧑🏻‍💻
+# 🧑🏻‍💻 PEDRO STOPPA 
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-### • HABILIDADES
+### 🤖 Habilidades e Técnologias
 
 **• Engenharia de Dados:** *Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis | Boas práticas de engenharia aplicadas a ambientes cloud*
 
