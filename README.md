@@ -14,7 +14,7 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 
 ---
 
-### 💻 Habilidades 
+### 💻 Skills
 
 **• Engenharia de Dados:** *Desenvolvimento de pipelines ETL/ELT escaláveis e reutilizáveis | Boas práticas de engenharia aplicadas a ambientes cloud*
 
