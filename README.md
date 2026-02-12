@@ -10,16 +10,7 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 
 ### 🤖 Técnologias
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt=" AWS, ,  " />
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt=" Git, ,  " />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=" Python  " />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=" SQL  " />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="50" height="50" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=" Spark  " />
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="50" height="50" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=" Databricks  " />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="50" style="background-color: #242938; border-radius: 20px; padding: 20px; margin-right: 10px;" alt=" Power BI " />
-</div>
-
+![Skills](https://skills.syvixor.com/api/icons?perline=15&i=databricks,airflow,apachespark,dbt,pandas,postgresql,mysql,powerbi,python,sql,amazonwebservices,docker,dbeaver,git,terraform)
 
 ---
 
@@ -41,9 +32,10 @@ Atuo fortemente com Python, SQL e PySpark, aplicando a Arquitetura Medallion (Br
 ---
 
 ### 📬 Vamos conversar?
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/pedro-stoppa/)
-[![Email](https://img.shields.io/badge/Email-red.svg)](mailto:pedrostoppa.dev@gmail.com?subject=Contato%20via%20GitHub%20-%20Pipeline%20de%20Dados)
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-gred.svg)](https://wa.me/558694818921) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrostoppa.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-stoppa)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/558694818921)
 
 ---
 
