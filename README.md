@@ -18,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="50" height="50" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=", Spark , " />
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="50" height="50" style="background-color: #242938; border-radius: 10px; padding: 7px; margin-right: 5px;" alt=", Databricks , " />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="50" style="background-color: #242938; border-radius: 20px; padding: 20px; margin-right: 10px;" alt=", Power BI , " />
-  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt=", AWS , " />
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt=", Git , " />
+  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt=", AWS , ", />
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt=", Git , ", />
 </div>
 
 
